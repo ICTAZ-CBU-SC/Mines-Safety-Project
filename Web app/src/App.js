@@ -5,14 +5,14 @@ import NavBar from './components/Headers_and_footers/Nav';
 function App() {
   return (
     <>
-      {/* <BrowserRouter>
+      <BrowserRouter>
       <NavBar/>
       <div className=''>
         <Routes>
           <Route path='/' element={<MainPage/>} />
         </Routes>
       </div>
-      </BrowserRouter> */}
+      </BrowserRouter>
     </>
   );
 }
