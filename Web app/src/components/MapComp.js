@@ -3,7 +3,7 @@ const MapComp = () => {
         <>
             <div>
                 <div>
-                    <div style={{height:""}}>
+                    <div className="bg-secondary rounded-3 shadow-sm" style={{height:"500px", width:'100%'}}>
                         
                     </div>
                 </div>
